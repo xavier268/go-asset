@@ -1,4 +1,4 @@
-//Package asset allows to create a source go file, that encapsulate any binary data.
+//Package main : create a source go file, that encapsulate any binary data.
 package main
 
 import (
