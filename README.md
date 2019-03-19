@@ -10,4 +10,4 @@ The output file name is derived from the input file name. If it already exists, 
 
 To get help, type :
 
-``` asset --help
+    asset --help
